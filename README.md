@@ -1,6 +1,10 @@
 # work-ua-scraper-and-data-analysis
 This project create for parsing required skills for python developer
 
+## Project description:
+This project was created for analyze 
+
+
 ## How to copy project from git and create virtual environment
 
 ```
